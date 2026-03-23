@@ -1,0 +1,16 @@
+# Binarios y ejecutables
+*.exe
+*.out
+*.app
+
+# Objetos
+*.o
+*.obj
+
+# Carpetas de IDE
+.vscode/
+.idea/
+
+# Temporales
+*.log
+*.tmp
